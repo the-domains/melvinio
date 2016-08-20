@@ -12,5 +12,9 @@ color:
     - '#8E908B'
 layout_spectrum: 0.764550510328263
 name: '@melvinio'
+navigation:
+  - name: social media
+    url: 'http://melvinio.uno/'
+    type: external
 title: Les 2Alpes life
 description: my experience
