@@ -1,3 +1,4 @@
+layout_spectrum: 0.764550510328263
 typography_spectrum: 0.8800876687746495
 color:
   brandStrength: 0.07394698075950146
@@ -5,16 +6,9 @@ color:
   saturation: 0.4715155754238367
   rhythmicContrast: 0.483422065153718
   brandColors:
-    - '#000000'
-    - '#D0CDC4'
-    - '#5F5F5E'
-    - '#FFFFFF'
-    - '#8E908B'
-layout_spectrum: 0.764550510328263
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: '@melvinio'
-navigation:
-  - name: social media
-    url: 'http://melvinio.uno/'
-    type: external
-title: Les 2Alpes life
-description: my experience
